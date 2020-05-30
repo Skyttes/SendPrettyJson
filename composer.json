@@ -1,0 +1,22 @@
+{
+    "name": "skyttes/send-pretty-json",
+    "description": "Allows you to send JsonResponse with Json flags",
+    "type": "library",
+    "require": {
+        "nette/http": "^3.0",
+        "nette/utils": "^3.1"
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "VottusCode",
+            "email": "vottus@vott.us"
+        }
+    ],
+    "autoload": {
+        "classmap": [
+            "src/"
+        ]
+    },
+    "minimum-stability": "stable"
+}
