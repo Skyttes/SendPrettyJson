@@ -2,7 +2,7 @@
 This extension for Nette Framework 3 allows you to send json response with Json flags, like prettifying the JSON.
 
 ## Installation
-Run `composer require composer require skyttes/send-pretty-json`
+Run `composer require skyttes/send-pretty-json`
 
 Add the `Skyttes\PrettyJson\Traits\TSendPrettyJson` trait to your BasePresenter (class that's extended by all presenters)
 <br>Nette version lower than Nette 3 are not tested.
